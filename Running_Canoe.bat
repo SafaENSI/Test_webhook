@@ -1,7 +1,8 @@
 @echo off
 
 cd C:\Users\bensa\PycharmProjects\pythonProject2\
-python Running_Canoe.py
+echo Running script ...
+python3 Running_Canoe.py
 
 rem Output number of errors in tests, but do not signal to Jenkins
 if errorlevel 1 (
