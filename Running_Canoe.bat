@@ -1,5 +1,5 @@
 @echo off
-
+echo Running script ..
 cd C:\Users\bensa\PycharmProjects\pythonProject2\
 echo Running script ...
 python3 Running_Canoe.py
