@@ -1,6 +1,6 @@
 # This is a sample Python script.
 
-import time, os, sys, msvcrt
+import time, os, sys
 
 if "C:\\Users\\bensa\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\win32com\\client" in sys.path:
     pass
